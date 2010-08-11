@@ -1,6 +1,6 @@
-====================
-Django MongoEngine cache
-====================
+=================================
+Django MongoEngine cache backend
+=================================
 
 Fork from http://bitbucket.org/lorien/django-mongodb-cache
 
